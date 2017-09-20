@@ -1,7 +1,7 @@
 ## Your Name
 [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. I co-founded [Power of Youth](http://power-of-youth.com/), a global network for early stage entrepreneurs in 2011 and stepped back 18 months ago to pursue my interest in tech and the circular economy.
+I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I'm looking to use technology as a tool to solve social and environmental problems. 
 
 ## Skills
 
