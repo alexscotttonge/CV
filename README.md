@@ -6,7 +6,7 @@ I started work at the interface of social and environmental business nine years 
 [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) [Interests](#interests)
 
 ## Employment
-**[Business Manager & Freelance](www.scotttonge.com)** | (2015 - 2017)
+**[Business Manager & Freelance](www.scotttonge.com) | (2015 - 2017)**
 - Circular economy project lead with [FutureX](http://www.futurexinnovation.com/) designing UK's biggest [water and circular economy programme](http://hydro-nations.com/cel/) backed by the [Scottish Government](https://www.sdi.co.uk/)
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
 designing waste out of local systems
