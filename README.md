@@ -56,7 +56,7 @@ launched by Minister for Civil Society
 ## Interests
 - Sailing – Dinghy instructor, mainly on the Thames!
 - Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
-- Harmonica – Teacher & occasional busker
+- Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference (link)
 - Hackathons: Product Forge
 - Disruptive Innovation Festival (side project??)
 - B Corps movement (links etc)
