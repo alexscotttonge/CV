@@ -3,15 +3,15 @@
 
 I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I'm looking to use technology as a tool to solve social and environmental problems.
 
-[Employment](#employment) | [Education](#education) | [Interests](#interests)
+[Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) [Interests](#interests)
 
 ## Employment
 **[Business Manager & Freelance](www.scotttonge.com)** | (July 2015 - July 2017)
-- Currently circular economy project lead with [FutureX](http://www.futurexinnovation.com/) designing UK's biggest [water and circular economy programme](http://hydro-nations.com/cel/) backed by the [Scottish Government](https://www.sdi.co.uk/)
+- Circular economy project lead with [FutureX](http://www.futurexinnovation.com/) designing UK's biggest [water and circular economy programme](http://hydro-nations.com/cel/) backed by the [Scottish Government](https://www.sdi.co.uk/)
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
 designing waste out of local systems
 - Managed sale of one business and built combined turnovers to £150k over 18 months and 4 FTE staff
-- Current work includes implementing and managing digital strategies for small businesses including the ‘circular economy’
+  
 
 
 ## Skills
@@ -52,5 +52,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+## Qualifications
+- Adwords
+- Hubspot
+- Trained coach and facilitator
 
