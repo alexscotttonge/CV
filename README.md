@@ -54,8 +54,7 @@ launched by Minister for Civil Society
 - Trained coach and facilitator
 
 ## Interests
-Sailing – Dinghy instructor Endurance events 
-– Ironman, ‘Quadrathlon’ & Ultra marathon
-Diving – PADI Rescue diver 
-Harmonica – Teacher & occasional busker
+- Sailing – Dinghy instructor 
+- Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
+- Harmonica – Teacher & occasional busker
 
