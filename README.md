@@ -1,7 +1,7 @@
 ## Your Name
 [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I started work at the interface of social and environmental business nine years ago which took me from oil and gas plc’s to economic finance firms. I co-founded Power of Youth, a global network for early stage entrepreneurs in 2011 and stepped back 18 months ago to pursue my interest in tech and the circular economy.
 
 ## Skills
 
