@@ -41,25 +41,21 @@ launched by Minister for Civil Society
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sep - Dec 2017)
+#### University of Illinois: Digital Marketing Analytics, 2016
+#### University of Michigan: Successful Negotiation Strategies, 2014
+#### University of Edinburgh: BSc Hons (2:1) Ecological Sciences, 2003 - 2007 
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 ## Qualifications
-- Adwords
-- Hubspot
+- Google Adwords Certified
+- Hubspot Certified
 - Trained coach and facilitator
+
+## Interests
+Sailing – Dinghy instructor Endurance events 
+– Ironman, ‘Quadrathlon’ & Ultra marathon
+Diving – PADI Rescue diver 
+Harmonica – Teacher & occasional busker
 
