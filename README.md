@@ -54,7 +54,9 @@ launched by Minister for Civil Society
 - Trained coach and facilitator
 
 ## Interests
-- Sailing – Dinghy instructor 
+- Sailing – Dinghy instructor, mainly on the Thames!
 - Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
 - Harmonica – Teacher & occasional busker
+- Hackathons: Product Forge
+- Disruptive Innovation Festival (side project??)
 
