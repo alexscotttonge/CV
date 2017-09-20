@@ -30,7 +30,7 @@ launched by Minister for Civil Society
 
 #### Coaching
 
-#### Writing
+#### Writing. Personal blog and published author at Progss magazine (link article)
 
 #### Programme Management & Delivery
 
