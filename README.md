@@ -17,6 +17,11 @@ designing waste out of local systems
 - Grew company at 50% growth rate over four years to £400k
 - Developed new business including global contract worth £100k with Ernst & Young and £70k from Scottish Government
 
+**Consultant, [Eastside PrimeTimers](https://ep-uk.org/) | 2010 - 2011**
+- Advised C-level management clients on developing commercial and financially viable M&A strategies for non-profits over £1m
+- Designed UK’s first M&A platform for charity sector
+launched by Minister for Civil Society
+
 **For more employment experience see my [LinkedIn](https://www.linkedin.com/in/alexscotttonge/)**
 
 ## Skills
