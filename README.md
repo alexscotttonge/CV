@@ -41,9 +41,9 @@ launched by Minister for Civil Society
 
 ## Education
 
-#### Makers Academy (Sep - Dec 2017)
-#### University of Illinois: Digital Marketing Analytics, 2016
-#### University of Michigan: Successful Negotiation Strategies, 2014
+#### Makers Academy, Sep - Dec 2017
+#### University of Illinois: Digital Marketing Analytics, 2016 (online)
+#### University of Michigan: Successful Negotiation Strategies, 2014 (online)
 #### University of Edinburgh: BSc Hons (2:1) Ecological Sciences, 2003 - 2007 
 
 
