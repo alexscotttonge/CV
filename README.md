@@ -17,6 +17,8 @@ designing waste out of local systems
 - Grew company at 50% growth rate over four years to £400k
 - Developed new business including global contract worth £100k with Ernst & Young and £70k from Scottish Government
 
+**For more employment experience see my [LinkedIn](https://www.linkedin.com/in/alexscotttonge/)**
+
 ## Skills
 
 #### This Skill
