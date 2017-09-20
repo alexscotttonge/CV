@@ -12,7 +12,7 @@ I started work at the interface of social and environmental business nine years 
 designing waste out of local systems
 - Managed sale of one business and built combined turnovers to £150k over 18 months and 4 FTE staff
   
-**[Co-founder & Programme Director](http://power-of-youth.com/)** | (2010 - 2015)
+**[Co-founder & Programme Director](http://power-of-youth.com/) | (2010 - 2015)**
 - Design lead for global and national support programme for top UK and emerging market entrepreneurs
 - Grew company at 50% growth rate over four years to £400k
 - Developed new business including global contract worth £100k with Ernst & Young and £70k from Scottish Government
