@@ -1,7 +1,7 @@
 ## Alex Scott-Tonge
 #### [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a   tool to solve social and environmental problems.
+I started work at the interface of social and environmental business ten years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a   tool to solve social and environmental problems.
 
 #### [Employment](#employment) | [Projects](#proejcts) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
@@ -27,14 +27,12 @@ launched by the Minister for Civil Society
 ## Skills
 
 
-**Programme Management & Delivery** Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
+**Programme Management & Delivery** | Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
 small businesses using marketing tech and £50k+ budgets
 
-**Coaching & Facilitation**
-Trained coach and facilitator. Worked with groups of various sizes and backgrounds  
+**Coaching & Facilitation** | Trained coach and facilitator. Worked with groups of various sizes and backgrounds  
 
-**Entrepreneurship**
-Started numerous projects and my own business. I enjoy getting things going!
+**Entrepreneurship** - Started numerous projects and my own business. I enjoy getting things going!
 
 **Public Speaking **
 Confident communicating with small and large groups.
