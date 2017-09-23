@@ -30,16 +30,16 @@ launched by the Minister for Civil Society
 **Programme Management & Delivery** Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
 small businesses using marketing tech and £50k+ budgets
 
-#### Coaching & Facilitation
+**Coaching & Facilitation**
 Trained coach and facilitator. Worked with groups of various sizes and backgrounds  
 
-#### Entrepreneurship
+**Entrepreneurship**
 Started numerous projects and my own business. I enjoy getting things going!
 
-#### Public Speaking 
+**Public Speaking **
 Confident communicating with small and large groups.
 
-#### Writing
+**Writing**
 [Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at Progrss magazine(https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
 
 ## Education
