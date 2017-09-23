@@ -27,18 +27,15 @@ launched by the Minister for Civil Society
 ## Skills
 
 
-**Programme Management & Delivery** | Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
-small businesses using marketing tech and £50k+ budgets
+**Programme Management & Delivery** | Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for small businesses using marketing tech and £50k+ budgets
 
 **Coaching & Facilitation** | Trained coach and facilitator. Worked with groups of various sizes and backgrounds  
 
-**Entrepreneurship** - Started numerous projects and my own business. I enjoy getting things going!
+**Entrepreneurship** | I enjoy getting things going! I've started numerous projects and my own business. 
 
-**Public Speaking **
-Confident communicating with small and large groups.
+**Public Speaking** | Confident communicating with small and large groups.
 
-**Writing**
-[Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at Progrss magazine(https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
+**Writing** | [Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at Progrss magazine(https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
 
 ## Education
 
@@ -46,8 +43,6 @@ Confident communicating with small and large groups.
 #### University of Illinois: Digital Marketing Analytics, 2016 (online)
 #### University of Michigan: Successful Negotiation Strategies, 2014 (online)
 #### University of Edinburgh: BSc Hons (2:1) Ecological Sciences, 2003 - 2007 
-
-
 
 ## Qualifications
 - Google Adwords Certified
