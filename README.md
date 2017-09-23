@@ -27,8 +27,7 @@ launched by the Minister for Civil Society
 ## Skills
 
 
-#### Programme Management & Delivery
-Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
+**Programme Management & Delivery** Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
 small businesses using marketing tech and £50k+ budgets
 
 #### Coaching & Facilitation
