@@ -1,7 +1,7 @@
 ## Alex Scott-Tonge
 #### [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I'm looking to use technology as a tool to solve social and environmental problems.
+I started work at the interface of social and environmental business nine years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a   tool to solve social and environmental problems.
 
 #### [Employment](#employment) | [Projects](#proejcts) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
@@ -20,21 +20,28 @@ I started work at the interface of social and environmental business nine years 
 **Consultant, [Eastside PrimeTimers](https://ep-uk.org/) | 2010 - 2011**
 - Advised C-level management clients on developing commercial and financially viable M&A strategies for non-profits over £1m
 - Designed UK’s first M&A platform for charity sector
-launched by Minister for Civil Society
+launched by the Minister for Civil Society
 
 **For more employment experience see my [LinkedIn](https://www.linkedin.com/in/alexscotttonge/)**
 
 ## Skills
 
-#### Facilitation & Public Speaking
+#### Facilitation & Public Speaking 
+Worked with small and large groups 
 
 #### Coaching
+Trained coach
 
-#### Writing. Personal blog and published author at Progss magazine (link article)
+#### Writing.
+Personal blog and published author at Progss magazine (link article). I’m an author at www.Progss.com on the topic of technology and sustainable urban living in the 21st Century.
+• I personally blog on the topic of digital innova'on and circular economy at www.scoPtonge.com
 
 #### Programme Management & Delivery
+Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
+small businesses using marketing tech and £50k+ budgets
 
 #### Leadership
+Lead teams of 
 
 #### Entrepreneurship
 
@@ -58,5 +65,5 @@ launched by Minister for Civil Society
 - Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
 - Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference (link)
 - Hackathons: Product Forge
-- Disruptive Innovation Festival (side project??)
+- Disruptive Innovation Festival:  I’m a contributor to the Disrup've Innova'on Fes'val (www.thinkdif.co), a global conference with an audience of over 30,000 started by the Ellen MacArthur Founda'on. In 2016 I ran an event on ’The Sharing Economy, Nature and Regenera've Ci'es’ with speakers from Biomimicry UK and Strathclyde University.
 - B Corps movement (links etc)
