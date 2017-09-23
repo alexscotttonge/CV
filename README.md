@@ -62,6 +62,6 @@ Started numerous projects and my own business. I enjoy getting things going to a
 - Sailing – Dinghy instructor, mainly on the Thames!
 - Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
 - Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference (link)
-- Hackathons: Product Forge
-- Disruptive Innovation Festival:  I’m a contributor to the Disruptive Innovation Festival (www.thinkdif.co), a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. In 2016 I ran an event on ’The Sharing Economy, Nature and Regenerative Cities’ with speakers from Biomimicry UK and Strathclyde University.
-- B Corps movement (links etc)
+- {Hackathons](https://productforge.io/): Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
+- [Disruptive Innovation Festival](https://www.thinkdif.co/):  I’m a contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from Biomimicry UK and Strathclyde University.
+- [B Corps movement](http://bcorporation.uk/)
