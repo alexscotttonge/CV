@@ -9,7 +9,7 @@ I started work at the interface of social and environmental business nine years 
 **Business Manager & Consultant, [Freelance](www.scotttonge.com) | (2015 - 2017)**
 - Circular economy project lead with [FutureX](http://www.futurexinnovation.com/) designing UK's biggest [water and circular economy programme](http://hydro-nations.com/cel/) backed by the [Scottish Government](https://www.sdi.co.uk/)
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
-designing waste out of local systems
+[designing waste](http://ecocollect.co.uk/) out of [local systems](http://growingforth.co.uk/about.html)
 - Managed sale of one business and built combined turnovers to £150k over 18 months and 4 FTE staff
   
 **Co-founder & Programme Director, [Power of Youth](http://power-of-youth.com/) | (2010 - 2015)**
