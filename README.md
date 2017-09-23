@@ -26,11 +26,11 @@ launched by the Minister for Civil Society
 
 ## Skills
 
-#### Facilitation & Public Speaking 
-Worked with small and large groups 
+#### Public Speaking 
+Confident with small and large groups...
 
-#### Coaching
-Trained coach
+#### Coaching & Facilitation
+Trained coach and facilitator. I've lead workshops...
 
 #### Writing.
 Personal blog and published author at Progss magazine (link article). I’m an author at www.Progss.com on the topic of technology and sustainable urban living in the 21st Century.
@@ -40,10 +40,8 @@ Personal blog and published author at Progss magazine (link article). I’m an a
 Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
 small businesses using marketing tech and £50k+ budgets
 
-#### Leadership
-Lead teams of 
-
 #### Entrepreneurship
+Started numerous projects and my own business. I enjoy getting things going to a stage...
 
 
 ## Education
@@ -65,5 +63,5 @@ Lead teams of
 - Endurance events – Ironman, ‘Quadrathlon’ & Ultra marathon
 - Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference (link)
 - Hackathons: Product Forge
-- Disruptive Innovation Festival:  I’m a contributor to the Disrup've Innova'on Fes'val (www.thinkdif.co), a global conference with an audience of over 30,000 started by the Ellen MacArthur Founda'on. In 2016 I ran an event on ’The Sharing Economy, Nature and Regenera've Ci'es’ with speakers from Biomimicry UK and Strathclyde University.
+- Disruptive Innovation Festival:  I’m a contributor to the Disruptive Innovation Festival (www.thinkdif.co), a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. In 2016 I ran an event on ’The Sharing Economy, Nature and Regenerative Cities’ with speakers from Biomimicry UK and Strathclyde University.
 - B Corps movement (links etc)
