@@ -26,23 +26,22 @@ launched by the Minister for Civil Society
 
 ## Skills
 
-#### Public Speaking 
-Confident with small and large groups...
-
-#### Coaching & Facilitation
-Trained coach and facilitator. I've lead workshops...
-
-#### Writing.
-Personal blog and published author at Progss magazine (link article). I’m an author at www.Progss.com on the topic of technology and sustainable urban living in the 21st Century.
-• I personally blog on the topic of digital innova'on and circular economy at www.scoPtonge.com
 
 #### Programme Management & Delivery
 Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for 
 small businesses using marketing tech and £50k+ budgets
 
-#### Entrepreneurship
-Started numerous projects and my own business. I enjoy getting things going to a stage...
+#### Coaching & Facilitation
+Trained coach and facilitator. Worked with groups of various sizes and backgrounds  
 
+#### Entrepreneurship
+Started numerous projects and my own business. I enjoy getting things going!
+
+#### Public Speaking 
+Confident communicating with small and large groups.
+
+#### Writing
+[Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at Progrss magazine(https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
 
 ## Education
 
@@ -60,7 +59,7 @@ Started numerous projects and my own business. I enjoy getting things going to a
 
 ## Interests
 - [Hackathons](https://productforge.io/): Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
-- [Disruptive Innovation Festival](https://www.thinkdif.co/):  I’m a contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/). Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from [Biomimicry UK](http://www.bio-uk.org/) and Strathclyde University.
+- [Disruptive Innovation Festival](https://www.thinkdif.co/):  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/). Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from [Biomimicry UK](http://www.bio-uk.org/) and Strathclyde University.
 - [B Corps movement](http://bcorporation.uk/): Attending events and workshops run by companies using business as a force for good in the world.
 - Sailing – Dinghy Instructor, mainly on the Thames!
 - Harmonica – Teacher, occasional busker and producer of the [Edinburgh Harmonica Conference](http://www.edinburghharmonica.com/)
