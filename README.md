@@ -1,15 +1,15 @@
 ## Alex Scott-Tonge
 #### [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business ten years ago which took me from [oil and gas plc’s](https://www.cairnenergy.com/) to [economic consultancy](https://www.trucost.com/) firms. In 2011 I co-founded [Power of Youth](http://power-of-youth.com/), a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a   tool to solve social and environmental problems.
+I started work at the interface of social and environmental business ten years ago which took me from oil and gas plc’s to economic consultancy firms. In 2011 I co-founded Power of Youth, a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a tool to solve social and environmental problems.
 
 #### [Employment](#employment) | [Projects](#proejcts) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
 ## Employment
 **Business Manager & Consultant, [Freelance](www.scotttonge.com) | (2015 - 2017)**
-- Circular economy project lead with [FutureX](http://www.futurexinnovation.com/) designing UK's biggest [water and circular economy programme](http://hydro-nations.com/cel/) backed by the [Scottish Government](https://www.sdi.co.uk/)
+- Circular economy project lead with FutureX designing UK's biggest water and circular economy programme backed by the Scottish Government
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
-[designing waste](http://ecocollect.co.uk/) out of [local systems](http://growingforth.co.uk/about.html)
+designing waste out of local systems and distributing locally grown food
 - Managed sale of one business and built combined turnovers to £150k over 18 months and 4 FTE staff
   
 **Co-founder & Programme Director, [Power of Youth](http://power-of-youth.com/) | (2010 - 2015)**
@@ -50,8 +50,8 @@ launched by the Minister for Civil Society
 - Trained coach and facilitator
 
 ## Interests
-- [Hackathons](https://productforge.io/): Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
-- [Disruptive Innovation Festival](https://www.thinkdif.co/):  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/). Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from [Biomimicry UK](http://www.bio-uk.org/) and Strathclyde University.
-- [B Corps movement](http://bcorporation.uk/): Attending events and workshops run by companies using business as a force for good in the world.
-- Sailing – Dinghy Instructor, mainly on the Thames!
-- Harmonica – Teacher, occasional busker and producer of the [Edinburgh Harmonica Conference](http://www.edinburghharmonica.com/)
+- Hackathons: Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
+- Disruptive Innovation Festival:  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from Biomimicry UK and Strathclyde University.
+- B Corps movement: Attending events and workshops run by companies using business as a force for positive change
+- Sailing – Dinghy Instructor
+- Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference
