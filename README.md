@@ -1,7 +1,7 @@
 ## Alex Scott-Tonge
 #### [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business ten years ago which took me from oil and gas plc’s to economic consultancy firms. In 2011 I co-founded Power of Youth, a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and the circular economy. I want to use digital technology as a tool to solve social and environmental problems.
+I started work at the interface of social and environmental business ten years ago which took me from oil and gas plc’s to economic consultancy firms. In 2011 I co-founded Power of Youth, a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and a more circular economy. I want to use digital technology as a tool to solve social and environmental problems.
 
 #### [Employment](#employment) | [Projects](#proejcts) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
