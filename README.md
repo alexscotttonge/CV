@@ -35,7 +35,7 @@ launched by the Minister for Civil Society
 
 **Public Speaking** | Confident communicating with small and large groups.
 
-**Writing** | [Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at Progrss magazine(https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
+**Writing** | [Personal blog](www.scotttonge.com) on topic of digital innovation and sustainability. Published author at [Progrss magazine](https://progrss.com) on the topic of technology and sustainable urban living in the 21st Century.
 
 ## Education
 
@@ -51,7 +51,7 @@ launched by the Minister for Civil Society
 
 ## Interests
 - Hackathons: Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
-- Disruptive Innovation Festival:  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/) with speakers from Biomimicry UK and Strathclyde University.
+- Disruptive Innovation Festival:  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/)
 - B Corps movement: Attending events and workshops run by companies using business as a force for positive change
 - Sailing – Dinghy Instructor
 - Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference
