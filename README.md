@@ -1,15 +1,15 @@
 ## Alex Scott-Tonge
 #### [Personal website](http://scotttonge.com) • [LinkedIn](https://www.linkedin.com/in/alexscotttonge/) • [Medium Blog](https://medium.com/@alexscotttonge)
 
-I started work at the interface of social and environmental business ten years ago which took me from oil and gas plc’s to economic consultancy firms. In 2010 I co-founded Power of Youth, a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and a more circular economy. I want to use digital technology as a tool to solve social and environmental problems.
+I've got over 10 years commercial experience from FTSE-100 plc's to boutique consultancy firms. In 2010 I started my own business, a global support agency for purpose-driven high growth entrepreneurs which ran programmes in Asia, Africa and Europe. I stepped back 18 months ago to pursue my interest in tech and a more sustainable economy. The next step for me is combining my professional experience in a company which practices TDD, pairing and agile. 
 
 ## Projects
 
 | GitHub Repo | Description | Tech | Product |
 | ----------- | ----------- | ---- | ---- |
-| [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | Helping people track the expiry dates of their food | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/) |
+| [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | A food scanning web app that tracks the expiry dates of food items. Designed to reduce food waste. | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/) |
 | [EthernalID](https://github.com/alexscotttonge/ethernal-ID) | An Ethereum blockchain ID for asylum seekers and refugees | Express, Solidity, MongoDB | [Presentation](https://docs.google.com/presentation/d/1_wyTDCTMhuR_-bwFiy_JhKcSAzE9q0wn5yKcXVinYfk/edit#slide=id.g2b18619bfe_0_5) |
-| [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Rails | [Link](https://github.com/cdunham1989/yelp-clone) |
+| [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails | [Link](https://github.com/cdunham1989/yelp-clone) |
 
 #### [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
