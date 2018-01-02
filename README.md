@@ -7,7 +7,9 @@ I started work at the interface of social and environmental business ten years a
 
 | GitHub Repo | Description | Tech | Product |
 | ----------- | ----------- | ---- | ---- |
-| [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | Helping people track the expiry dates of their food | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/)
+| [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | Helping people track the expiry dates of their food | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/) |
+| [EthernalID](https://github.com/alexscotttonge/ethernal-ID) | An Ethereum blockchain ID for asylum seekers and refugees | Express, Solidity, MongoDB | [Presentation](https://docs.google.com/presentation/d/1_wyTDCTMhuR_-bwFiy_JhKcSAzE9q0wn5yKcXVinYfk/edit#slide=id.g2b18619bfe_0_5) |
+| [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Rails | [Link](https://github.com/cdunham1989/yelp-clone) |
 
 #### [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
