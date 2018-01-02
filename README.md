@@ -3,6 +3,8 @@
 
 I've got over 10 years commercial experience from FTSE-100 plc's to boutique consultancy firms. In 2010 I started my own business, a global support agency for purpose-driven high growth entrepreneurs which ran programmes in Asia, Africa and Europe. I stepped back 18 months ago to pursue my interest in tech and a more sustainable economy. The next step for me is combining my professional experience in a company which practices TDD, pairing and agile. 
 
+#### [Projects](#projects) | [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
+
 ## Projects
 
 | GitHub Repo | Description | Tech | Product |
@@ -10,8 +12,6 @@ I've got over 10 years commercial experience from FTSE-100 plc's to boutique con
 | [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | A food scanning web app that tracks the expiry dates of food items. Designed to reduce food waste. | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/) |
 | [EthernalID](https://github.com/alexscotttonge/ethernal-ID) | An Ethereum blockchain ID for asylum seekers and refugees | Express, Solidity, MongoDB | [Presentation](https://docs.google.com/presentation/d/1_wyTDCTMhuR_-bwFiy_JhKcSAzE9q0wn5yKcXVinYfk/edit#slide=id.g2b18619bfe_0_5) |
 | [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails | [Link](https://github.com/cdunham1989/yelp-clone) |
-
-#### [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
 ## Employment
 **Consultant & Adviser, [Freelance](www.scotttonge.com) | (2015 - 2017)**
@@ -33,7 +33,6 @@ launched by the Minister for Civil Society
 **For more employment experience see my [LinkedIn](https://www.linkedin.com/in/alexscotttonge/)**
 
 ## Skills
-
 
 **Programme Management & Delivery** | Managed six figure budgets and international budgets. Experience with designing and implementing marketing and strategies for small businesses using marketing tech and £50k+ budgets
 
