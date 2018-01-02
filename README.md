@@ -3,10 +3,16 @@
 
 I started work at the interface of social and environmental business ten years ago which took me from oil and gas plc’s to economic consultancy firms. In 2010 I co-founded Power of Youth, a global support network for purpose-driven high growth entrepreneurs. I stepped back 18 months ago to pursue my interest in tech and a more circular economy. I want to use digital technology as a tool to solve social and environmental problems.
 
-#### [Employment](#employment) | [Projects](#proejcts) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
+## Projects
+
+| GitHub Repo | Description | Tech | Product |
+| ----------- | ----------- | ---- | ---- |
+| [Grocery Allstars](https://github.com/alexscotttonge/grocery_allstars) | Helping people track the expiry dates of their food | ES6 JavaScript, PostGres, NodeJS | [Presentation](http://slides.com/grocery/deck#/)
+
+#### [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
 ## Employment
-**Business Manager & Consultant, [Freelance](www.scotttonge.com) | (2015 - 2017)**
+**Consultant & Adviser, [Freelance](www.scotttonge.com) | (2015 - 2017)**
 - Circular economy project lead with FutureX designing UK's biggest water and circular economy programme backed by the Scottish Government
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
 designing waste out of local systems and distributing locally grown food
