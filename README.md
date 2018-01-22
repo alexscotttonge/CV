@@ -58,7 +58,7 @@ launched by the Minister for Civil Society
 
 ## Interests
 - Hackathons: Mentor and participant for [healthcare](https://scotttonge.com/2017/01/27/future-health-hack/) and transport hacks
-- Disruptive Innovation Festival:  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Citie'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/)
+- Disruptive Innovation Festival:  Contributor to the Disruptive Innovation Festival, a global conference with an audience of over 30,000 started by the Ellen MacArthur Foundation. Last year I ran an event on ['The Sharing Economy, Nature and Regenerative Cities'](https://scotttonge.com/2016/10/28/what-does-the-sharing-economy-have-to-learn-from-nature/)
 - B Corps movement: Attending events and workshops run by companies using business as a force for positive change
 - Sailing – Dinghy Instructor
 - Harmonica – Teacher, occasional busker and producer of the Edinburgh Harmonica Conference
