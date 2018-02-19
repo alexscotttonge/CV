@@ -3,6 +3,11 @@
 
 I've got over 10 years commercial experience from FTSE-100 plc's to boutique consultancy firms. In 2010 I started my own business, a global support agency for purpose-driven high growth entrepreneurs which ran programmes in Asia, Africa and Europe. I stepped back 18 months ago to pursue my interest in tech and a more sustainable economy. The next step for me is combining my professional experience in a company which practices TDD, pairing and agile. 
 
+I'm currently freelancing and coaching with a number of different companies to continue with my programming skills development:
+- **Coach** with [Code First Girls](https://www.codefirstgirls.org.uk) and [Codebar](https://codebar.io/)
+- **Coding Tutor** with [Minerva Tutors](http://www.minervatutors.co.uk/)
+- **Facilitator** with [Decoded](https://decoded.com/en-gb/)
+
 #### [Projects](#projects) | [Employment](#employment) | [Education](#education) | [Qualifications](#qualifications) | [Interests](#interests)
 
 ## Projects
