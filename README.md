@@ -19,13 +19,17 @@ I'm currently freelancing and coaching with a number of different companies to c
 | [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails | [Link](https://github.com/cdunham1989/yelp-clone) |
 
 ## Employment
-**Consultant & Adviser, [Freelance](www.scotttonge.com) | (2015 - 2017)**
+
+**Coach & Tutor | 2018**
+- Tutoring and coaching software development with different agencies including Code First Girls, Codebar and Minerva Tutors
+
+**Consultant & Adviser, [Freelance](www.scotttonge.com) | 2015 - 2017**
 - Circular economy project lead with FutureX designing UK's biggest water and circular economy programme backed by the Scottish Government
 - Worked with two of Scotland’s largest organics recycling companies to set up two new businesses focused on
 designing waste out of local systems and distributing locally grown food
 - Managed sale of one business and built combined turnovers to £150k over 18 months and 4 FTE staff
   
-**Co-founder & Programme Director, [Power of Youth](http://power-of-youth.com/) | (2010 - 2015)**
+**Co-founder & Programme Director, [Power of Youth](http://power-of-youth.com/) | 2010 - 2015**
 - Design lead for global and national support programme for top UK and emerging market entrepreneurs
 - Grew company at 50% growth rate over four years to £400k
 - Developed new business including global contract worth £100k with Ernst & Young and £70k from Scottish Government
